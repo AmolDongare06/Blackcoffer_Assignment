@@ -3,21 +3,17 @@ Data Extraction and Text Analysis
 Blackcoffer Consulting
 
 1	Objective:
-
 The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
 
-2	Data Extraction
-
+2	Data Extraction:
 Input.xlsx
 For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file with URL_ID as its file name.
 While extracting text, please make sure your program extracts only the article title and the article text. It should not extract the website header, footer, or anything other than the article text. 
 
-3	Data Analysis
-
+3	Data Analysis:
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
 
-4	Variables
-
+4	Variables:
 Definition of each of the variables given in the “Text Analysis.docx” file.
 Look for these variables in the analysis document (Text Analysis.docx):
 1.	POSITIVE SCORE
@@ -34,8 +30,7 @@ Look for these variables in the analysis document (Text Analysis.docx):
 12.	PERSONAL PRONOUNS
 13.	AVG WORD LENGTH
 
-5	Output Data Structure
-
+5	Output Data Structure:
 Output Variables: 
 1.	All input variables in “Input.xlsx”
 2.	POSITIVE SCORE
